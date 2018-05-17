@@ -1,0 +1,18 @@
+#one{
+	color: grey;
+	font-family: garamond;
+	text-decoration: none;
+}
+
+button{
+	color: deeppink;
+	border-color: deeppink;
+	background-color: white;
+	border-width: 1px;
+}
+
+#three{
+	color:white; 
+	padding-left:80px; 
+	font-family: courier;
+}
